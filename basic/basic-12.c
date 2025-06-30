@@ -1,5 +1,5 @@
 // take two integers input, a and b :and find the remainder when a is divided by b.
-
+// modulus operator is used to find the remainder.
 #include<stdio.h>
 int main(){
     int r,a,b,q;
