@@ -7,20 +7,20 @@ int main()
     printf("enter the positive number ");
     scanf("%d",&n);
 
-    if(n==0)
+    if(n <= 0)
     {
-        printf("the not even nor odd");
-
+        printf(" please enter positive number \n");
     }
-
+    
     else if(n%2==0){
-        printf("the number is even ");
+        printf("the number is even \n");
     }
 
     else 
     {
-        printf(" the number is odd");
+        printf(" the number is odd \n");
     }
 
+    return 0;
 
 }
