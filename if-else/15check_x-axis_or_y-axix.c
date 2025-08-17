@@ -23,7 +23,7 @@ int main()
     }
     else
     {
-        printf(" the point does nit lie on x or y axis. ");
+        printf(" the point does not lie on x or y axis. ");
     }
 
 
