@@ -7,22 +7,22 @@ int main()
     printf("enter a number to check if prime: ");
     scanf("%d",&n);
 
-    int is_prime = 1;
-
     if(n<=1){
         printf("%d is not prime. ",n);
-    }
-    else
-    {
-        for(int i=2; i*i<=n; i++)
-        {
-            if(n%i==0)
-            {
-                is_prime=0;
-                break;
-            } 
 
-        }
+        return 0;
+    }
+
+    int is_prime = 1;
+
+    for(int i=2; i*i<=n; i++)
+
+    {
+        if(n%i==0)
+        {
+            is_prime=0;
+            break;
+        } 
 
     }
     if(is_prime == 1)
@@ -36,5 +36,4 @@ int main()
     
     return 0;
 
-
-}
+ } 
