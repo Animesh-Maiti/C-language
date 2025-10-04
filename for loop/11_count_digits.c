@@ -8,13 +8,18 @@ int main()
     scanf("%d",&num);
 
     temp = num;
-    while(temp>0)
+
+    if(temp==0)
+    {
+        count++;
+    }
+    while(temp!=0)
     {
         count++;
         temp=temp/10;
 
     }
-
+    
     printf("\nthe number of digit = %d ",count);
     return 0;
 }
