@@ -19,8 +19,19 @@ int main()
         }
     }
 
-
     printf("the sum of the series is %d",sum);
+
+// the above method is too not eficient for big numbers
+
+    if(n%2==0)
+    {
+        sum=-(n/2);
+    }
+    else
+    {
+        sum=-((n-1)/2)+n;
+    }
+    printf("\nthe sum of the series is %d",sum);
 
 
     return 0;
