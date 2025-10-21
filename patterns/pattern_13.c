@@ -1,4 +1,11 @@
-// pattern 13... reveese triangel 
+/*
+
+   *
+  **
+ ***
+****
+
+pattern 13... reveese triangel*/ 
 
 #include<stdio.h>
 int main()

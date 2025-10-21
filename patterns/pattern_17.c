@@ -1,4 +1,11 @@
-//pattern 17 alphabet pyramid
+/*
+
+   A
+  ABC
+ ABCDE
+ABCDEFG
+
+pattern 17 alphabet pyramid */
 
 #include<stdio.h>
 int main()

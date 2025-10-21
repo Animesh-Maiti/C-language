@@ -1,4 +1,11 @@
-// pattern floyd's triangle....
+/* 
+
+1
+23
+456
+78910
+
+pattern floyd's triangle....*/
 
 #include<stdio.h>
 int main()

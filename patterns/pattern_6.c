@@ -1,4 +1,11 @@
-// pattern 6 odd number triangle.
+/* 
+
+1
+13
+135
+1357
+
+pattern 6 odd number triangle.*/
 
 #include<stdio.h>
 int main()

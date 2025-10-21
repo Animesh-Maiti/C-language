@@ -1,4 +1,12 @@
-// pattern 11 ... X
+/*
+
+*   *
+ * * 
+  *  
+ * *
+*   * 
+
+pattern 11 ... X */ 
 
 #include<stdio.h>
 int main()

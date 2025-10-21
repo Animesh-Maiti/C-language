@@ -1,4 +1,11 @@
-// pattern 14.... rhombus
+/* 
+
+   ****
+  ****
+ ****
+****
+
+pattern 14.... rhombus */
 
 #include<stdio.h>
 int main()

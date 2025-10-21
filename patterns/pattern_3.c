@@ -1,4 +1,11 @@
-// pattern 3
+/*
+
+*
+**
+***
+****
+
+pattern 3*/
 
 #include<stdio.h>
 int main()

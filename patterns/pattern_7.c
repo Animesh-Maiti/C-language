@@ -1,4 +1,11 @@
-// pattern 7.. ABCD.
+/* 
+
+ABCD
+ABCD
+ABCD
+ABCD
+
+pattern 7.. */
 
 #include<stdio.h>
 int main()

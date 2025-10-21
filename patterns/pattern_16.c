@@ -1,4 +1,11 @@
-//pattern 16
+/*
+
+   *
+  ***
+ *****
+*******
+
+pattern 16 */
 
 #include<stdio.h>
 int main()
@@ -19,7 +26,14 @@ int main()
         }
         printf("\n");
     }
+/*
 
+   1
+  123
+ 12345
+1234567
+
+*/
     for(int i=1; i<=rows; i++)
     {
         for(int j=1; j<=rows-i; j++)

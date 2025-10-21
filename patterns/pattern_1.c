@@ -1,4 +1,10 @@
-// print the pattern 1.
+/* 
+
+*****
+*****
+*****
+
+print the pattern 1.*/
 
 #include<stdio.h>
 int main()

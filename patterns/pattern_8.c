@@ -1,4 +1,11 @@
-// pattern 8
+/*
+
+1
+AB
+123
+ABCD
+
+pattern 8 */
 
 #include<stdio.h>
 int main()

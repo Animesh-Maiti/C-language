@@ -1,4 +1,12 @@
-// pattern 15
+/* 
+
+    A
+   AB
+  ABC
+ ABCD
+ 
+pattern 15*/
+
 
 #include<stdio.h>
 int main()

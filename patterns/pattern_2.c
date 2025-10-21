@@ -1,4 +1,11 @@
-// pattern 2
+/*
+
+1234
+1234
+1234
+1234
+
+pattern 2 */
 
 #include<stdio.h>
 int main()

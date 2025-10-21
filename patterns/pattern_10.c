@@ -1,4 +1,11 @@
-// pattern_10....hollow rectangle
+/*
+
+******
+*    *
+*    *
+******
+
+pattern_10....hollow rectangle */ 
 
 #include<stdio.h>
 int main()

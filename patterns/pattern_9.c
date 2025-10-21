@@ -1,4 +1,12 @@
-// pattern 9 odd star plush...
+/* 
+
+  *
+  *
+***** 
+  * 
+  * 
+  * 
+pattern 9 odd star plush...*/
 
 #include<stdio.h>
 int main()
